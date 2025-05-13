@@ -4,7 +4,7 @@ then report matches and metabolites meta data.
 
 
 
-#Future features 
+# Future features 
 Aims in the future;
 Addition of a GUI, 
 possibility of users to input experimental data and retention time libraries. 
